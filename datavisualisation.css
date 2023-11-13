@@ -1,0 +1,95 @@
+body {
+  background-image: url(Private\ GIF.gif);
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  box-sizing: border-box;
+  border: none;
+  height: 1500px;
+  width: 1500px;
+}
+header {
+  background-color: plum;
+  text-align: center;
+  height: 140px;
+}
+footer {
+  background-color: plum;
+  text-align: center;
+  height: 80px;
+  position: relative;
+  top: 60px;
+  background-size: 100%;
+}
+header > button {
+  border: none;
+  background-color: palevioletred;
+  border-radius: 65px;
+  position: relative;
+  left: -680px;
+  top: 30px;
+  height: 50px;
+}
+main > #topic1 {
+  background-color: rgb(192, 142, 238);
+  width: 350px;
+  height: 150px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  text-align: center;
+  position: relative;
+  left: 100px;
+  top: 100px;
+}
+main > #topic2 {
+  background-color: rgb(182, 255, 127);
+  width: 500px;
+  height: 150px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  left: 450px;
+  top: -100px;
+  text-align: center;
+}
+main > #topic3 > h3 {
+  text-align: center;
+}
+main > #topic3 {
+  background-color: rgb(45, 163, 161);
+  width: 500px;
+  height: 600px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+}
+main > #topic4 {
+  background-color: rgb(187, 246, 226);
+  width: 500px;
+  height: 600px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  left: 550px;
+  top: -450px;
+}
+main > #topic4 > h3 {
+  text-align: center;
+}
+header > h1 {
+  position: relative;
+  top: 75px;
+}
+div{
+  box-sizing: border-box;
+  height: 400px;
+  width: 500px;
+  border: none;
+  position: relative;
+  top: -500px;
+}
+

@@ -1,0 +1,55 @@
+body{
+    background-image: url(Oil\ Texture\ Projects.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    
+}
+main{
+    height: 650px;
+}
+main> nav > button{
+    height: 150px;
+    width: 200px;
+    text-align: left;
+    background-color: rgb(240, 125, 196);
+    border: none;
+    border-radius: 50px;
+    position: relative;
+    top: 100px;
+    
+}
+header{
+    margin: 0px;
+    background-color: plum;
+    height: 200px;
+    text-align: center;
+}
+footer{
+    background-color: plum;
+    position: relative;
+    top: -50px;
+    height: 120px;
+    text-align: center;
+
+}
+header>h1{
+    position: relative;
+    top: 75px;
+}
+main>#pic{
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
+main>p{
+    background-color: rgb(142, 225, 198);
+    height: 100px;
+    width: 300px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 35px;
+    text-align: center;
+    position: relative;
+    top: -250px;
+}
