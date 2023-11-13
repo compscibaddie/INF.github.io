@@ -44,9 +44,12 @@ main>#importance{
     border: none;
     box-sizing: border-box;
     border-radius: 80px;
-    text-align: center;
+    
     position: relative;
     left: 500px;
+}
+main>#importance>h3{
+    text-align: center;
 }
 header>h1{
     position: relative;
