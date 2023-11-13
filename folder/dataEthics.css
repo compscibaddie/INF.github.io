@@ -1,0 +1,108 @@
+body{
+    background-image: url(2d0ab7cb-14a6-4a4e-98a9-bff3dcdfe598.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+header{
+    background-color: plum;
+    text-align: center;
+    height: 150px;
+}
+footer{
+    background-color: plum;
+    height: 150px;
+    text-align: center;
+}
+header>button{
+    border: none;
+    background-color: palevioletred;
+    border-radius: 65px;
+    position: relative;
+    left: -680px;
+    top: 30px;
+    height: 50px;
+
+}
+main>#intro{
+    background-color: rgb(187, 187, 245);
+    width: 300px;
+  height: 100px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  left: 100px;
+  top: 150px;
+  text-align: center;
+}
+main>#relevance{
+    background-color: rgb(187, 245, 217);
+    width: 600px;
+  height: 400px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  left: 750px;
+}
+main>#relevance>h3{
+    text-align: center;
+}
+main>#realworld{
+    background-color: rgb(238, 245, 187);
+    width: 600px;
+  height: 400px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  left: 750px;
+}
+main>#realworld>h3{
+    text-align: center;
+}
+main>#legal{
+    background-color: rgb(239, 148, 234);
+    width: 700px;
+  height: 400px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  top: -550px;
+}
+main>#legal>h3{
+    text-align: center;
+}
+main>#misuse{
+    background-color: rgb(239, 148, 174);
+    width: 400px;
+  height: 200px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  top: -500px;
+  text-align: center;
+}
+main>#recommendations{
+    background-color: rgb(148, 239, 210);
+    width: 600px;
+  height: 200px;
+  border: none;
+  border-radius: 80px;
+  box-sizing: border-box;
+  position: relative;
+  top: -550px;
+  left: 300px;
+  text-align: center;
+
+}
+header>h1{
+  position: relative;
+  top: 75px;
+}
+
+
